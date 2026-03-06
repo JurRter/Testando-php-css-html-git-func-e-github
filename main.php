@@ -2,6 +2,7 @@
 $titulo = "cuzin!";
 $mensagem = "como q eu ponho a porra do html ai tyle.css.";
 ?>
+
 <!doctype html>
 <html lang="pt-BR">
 <head>
